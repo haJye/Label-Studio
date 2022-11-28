@@ -1,0 +1,234 @@
+[
+  {
+    "image": "/data/upload/4/7a11a029-kuat-transfer-v2-0184-1628790890.jpg",
+    "id": 8,
+    "label": [
+      {
+        "x": 9.052333804809052,
+        "y": 4.246284501061571,
+        "width": 42.29137199434229,
+        "height": 74.09766454352442,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 3000,
+        "original_height": 2000
+      },
+      {
+        "x": 53.46534653465346,
+        "y": 0.6369426751592357,
+        "width": 46.53465346534654,
+        "height": 92.1443736730361,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Car"
+        ],
+        "original_width": 3000,
+        "original_height": 2000
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2022-11-28T20:08:11.665651Z",
+    "updated_at": "2022-11-28T20:08:11.665651Z",
+    "lead_time": 12.941
+  },
+  {
+    "image": "/data/upload/4/1111eff2-bike-on-road.jpg",
+    "id": 7,
+    "label": [
+      {
+        "x": 34.92884864165589,
+        "y": 10.615711252653927,
+        "width": 43.07891332470893,
+        "height": 31.422505307855626,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Car"
+        ],
+        "original_width": 1291,
+        "original_height": 787
+      },
+      {
+        "x": 22.250970245795603,
+        "y": 33.97027600849257,
+        "width": 73.35058214747734,
+        "height": 60.93418259023353,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 1291,
+        "original_height": 787
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2022-11-28T20:04:37.089649Z",
+    "updated_at": "2022-11-28T20:04:37.089649Z",
+    "lead_time": 27.116
+  },
+  {
+    "image": "/data/upload/4/6cd59008-trekverve-slimC1.jpg",
+    "id": 6,
+    "label": [
+      {
+        "x": 5.6537102473498235,
+        "y": 39.70276008492569,
+        "width": 48.93992932862191,
+        "height": 60.29723991507431,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 800,
+        "original_height": 666
+      },
+      {
+        "x": 60.24734982332156,
+        "y": 40.976645435244166,
+        "width": 35.86572438162544,
+        "height": 58.81104033970276,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 800,
+        "original_height": 666
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2022-11-28T20:00:13.715136Z",
+    "updated_at": "2022-11-28T20:00:13.716136Z",
+    "lead_time": 9.986
+  },
+  {
+    "image": "/data/upload/4/cfd2f7e7-FullWidth-Homepage-Image-Electric_2.jpg",
+    "id": 5,
+    "label": [
+      {
+        "x": 0,
+        "y": 1.9292604501607717,
+        "width": 63.49614395886889,
+        "height": 93.56913183279742,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 1500,
+        "original_height": 600
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2022-11-28T19:59:32.064136Z",
+    "updated_at": "2022-11-28T19:59:38.710134Z",
+    "lead_time": 12.148
+  },
+  {
+    "image": "/data/upload/4/0decaaa8-Left_side_of_Flying_Pigeon.jpg",
+    "id": 4,
+    "label": [
+      {
+        "x": 1.2747875354107645,
+        "y": 2.7600849256900215,
+        "width": 96.88385269121812,
+        "height": 96.17834394904459,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 3556,
+        "original_height": 2371
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2022-11-28T19:58:55.172141Z",
+    "updated_at": "2022-11-28T19:58:55.172141Z",
+    "lead_time": 19.993
+  },
+  {
+    "image": "/data/upload/4/5e79511c-20220528_CUP005.jpg",
+    "id": 3,
+    "label": [
+      {
+        "x": 43.90243902439025,
+        "y": 36.07305936073058,
+        "width": 49.6790757381258,
+        "height": 53.19634703196348,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 1280,
+        "original_height": 720
+      },
+      {
+        "x": 4.621309370988448,
+        "y": 37.21461187214613,
+        "width": 41.84852374839538,
+        "height": 62.78538812785388,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 1280,
+        "original_height": 720
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2022-11-28T19:58:33.257138Z",
+    "updated_at": "2022-11-28T19:58:33.257138Z",
+    "lead_time": 11.63
+  },
+  {
+    "image": "/data/upload/4/eaa55ce1-81wGn2TQJeL._SX425_.jpg",
+    "id": 2,
+    "label": [
+      {
+        "x": 1.2738853503184715,
+        "y": 3.1847133757961785,
+        "width": 97.0276008492569,
+        "height": 88.32271762208069,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 425,
+        "original_height": 425
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2022-11-28T19:58:13.768138Z",
+    "updated_at": "2022-11-28T19:58:13.768138Z",
+    "lead_time": 4.168
+  },
+  {
+    "image": "/data/upload/4/a1f3343f-51ZuGJWOo1L._SX425_.jpg",
+    "id": 1,
+    "label": [
+      {
+        "x": 1.0512483574244416,
+        "y": 0.8492569002123143,
+        "width": 98.94875164257556,
+        "height": 95.32908704883228,
+        "rotation": 0,
+        "rectanglelabels": [
+          "Bicycle"
+        ],
+        "original_width": 425,
+        "original_height": 263
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2022-11-28T19:58:06.802138Z",
+    "updated_at": "2022-11-28T19:58:06.802138Z",
+    "lead_time": 6.792
+  }
+]
